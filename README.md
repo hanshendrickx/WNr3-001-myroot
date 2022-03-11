@@ -1,3 +1,5 @@
+# Set up of MP50 codes. this is trial of step by step adding codes!
+
 Book: file:///C:/Users/hansh/OneDrive/Documents/Wagtail%20Blog%20Book%20022020/buildblogwithwagtailcms.pdf
 
 My GitHub codes: https://github.com/hanshendrickx/WNr3-001-myroot 
@@ -20,8 +22,5 @@ Step 2: create the GitHub repository myroot
 Step 3: in VScode install requirements from https://github.com/hanshendrickx/DWNr3.git; Copy/Paste the requirements.txt 
 Step 4: Follow Installation Adjustments for Django Debug Toolbar at https://django-debug-toolbar.readthedocs.io/en/latest/installation.html 
 
-
-
-# Set up of MP50 codes. this is trial of step by step adding codes!
 
 
