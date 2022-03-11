@@ -1,0 +1,48 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+@EXPLICIT
+https://repo.anaconda.com/pkgs/main/win-64/ca-certificates-2022.2.1-haa95532_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/vs2015_runtime-14.27.29016-h5e58377_2.conda
+https://repo.anaconda.com/pkgs/main/win-64/vc-14.2-h21ff451_1.conda
+https://repo.anaconda.com/pkgs/main/win-64/openssl-1.1.1m-h2bbff1b_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/sqlite-3.37.2-h2bbff1b_0.conda
+https://repo.anaconda.com/pkgs/main/noarch/wheel-0.37.1-pyhd3eb1b0_0.conda
+https://repo.anaconda.com/pkgs/main/win-64/certifi-2021.10.8-py39haa95532_2.conda
+https://repo.anaconda.com/pkgs/main/win-64/python-3.9.7-h6244533_1.conda
+# no URL for: anyascii-0.3.0.dist-info
+# no URL for: asgiref-3.5.0.dist-info
+# no URL for: charset_normalizer-2.0.12.dist-info
+# no URL for: draftjs_exporter-2.1.7.dist-info
+# no URL for: et_xmlfile-1.1.0.dist-info
+# no URL for: idna-3.3.dist-info
+# no URL for: Pillow-9.0.1.dist-info
+# no URL for: pytz-2021.3.dist-info
+# no URL for: six-1.16.0.dist-info
+# no URL for: soupsieve-2.3.1.dist-info
+# no URL for: sqlparse-0.4.2.dist-info
+# no URL for: tablib-3.2.0.dist-info
+# no URL for: telepath-0.2.dist-info
+# no URL for: tzdata-2021.5.dist-info
+# no URL for: urllib3-1.26.8.dist-info
+# no URL for: webencodings-0.5.1.dist-info
+# no URL for: Willow-1.4.1.dist-info
+https://repo.anaconda.com/pkgs/main/win-64/wincertstore-0.2-py39haa95532_2.conda
+# no URL for: xlrd-2.0.1.dist-info
+# no URL for: XlsxWriter-3.0.3.dist-info
+# no URL for: xlwt-1.3.0.dist-info
+# no URL for: beautifulsoup4-4.9.3.dist-info
+# no URL for: Django-3.2.12.dist-info
+# no URL for: django_modelcluster-5.2.dist-info
+# no URL for: html5lib-1.1.dist-info
+# no URL for: l18n-2021.3.dist-info
+# no URL for: openpyxl-3.0.9.dist-info
+# no URL for: requests-2.27.1.dist-info
+https://repo.anaconda.com/pkgs/main/win-64/setuptools-58.0.4-py39haa95532_0.conda
+# no URL for: django_debug_toolbar-3.2.4.dist-info
+# no URL for: django_filter-21.1.dist-info
+# no URL for: django_taggit-2.1.0.dist-info
+# no URL for: django_treebeard-4.5.1.dist-info
+# no URL for: djangorestframework-3.13.1.dist-info
+https://repo.anaconda.com/pkgs/main/win-64/pip-21.2.4-py39haa95532_0.conda
+# no URL for: wagtail-2.16.1.dist-info
