@@ -18,8 +18,11 @@ Signing in to admin: http://127.0.0.1:8000/admin/login/?next=/admin/ - py manage
 Clone, package: https://www.anaconda.com/blog/moving-conda-environments
 
 Step 1: VE by conda (Anaconda)
+
 Step 2: create the GitHub repository myroot
+
 Step 3: in VScode install requirements from https://github.com/hanshendrickx/DWNr3.git; Copy/Paste the requirements.txt 
+
 Step 4: Follow Installation Adjustments for Django Debug Toolbar at https://django-debug-toolbar.readthedocs.io/en/latest/installation.html 
 
 
